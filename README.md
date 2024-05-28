@@ -34,7 +34,8 @@ Copiar URL do Repositório: No seu novo repositório no GitHub, clique no botão
 
 Abrir Terminal: Abra o terminal (ou prompt de comando) no seu computador.
 
-Clonar Repositório:
+Copiando URL do Repositorio
 [img-github-clone-url.png](https://postimg.cc/wRXfZD4n)
+Colando o link no seu terminal
 [Git-Clone.jpg](https://postimg.cc/rD1hpG8m)
 
